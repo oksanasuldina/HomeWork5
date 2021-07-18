@@ -1,0 +1,5 @@
+Ivanov 70000
+Smirnov 100000
+Petrov 15000
+Gorelov 19500
+Fedorov 20000
